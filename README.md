@@ -35,6 +35,8 @@ OSINT practitioners who triage Google-account artifacts with authorization.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-session-setup` | Session setup and validation without storing secrets in repos |
